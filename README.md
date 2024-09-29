@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Devlopment
 - 🌱 I’m currently learning DevOps and cloud.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me My linkedIn id www.linkedin.com/in/sachin-yadav-b495311b5
+- 📫 How to reach me My linkedIn id www.linkedin.com
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
